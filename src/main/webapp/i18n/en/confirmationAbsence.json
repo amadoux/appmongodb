@@ -1,0 +1,10 @@
+{
+  "appmongodbApp": {
+    "ConfirmationAbsence": {
+      "null": "",
+      "ENCOURS": "ENCOURS",
+      "REJETE": "REJETE",
+      "ACCEPTE": "ACCEPTE"
+    }
+  }
+}
